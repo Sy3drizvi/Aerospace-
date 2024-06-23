@@ -1,7 +1,5 @@
 app.py code
-The provided Python script uses Dash to create a web application that displays Aircraft Performance data from an Excel file's 
-
+Syed Aircraft Performance Analysis Dashboard This user-friendly web application allows you to analyze aircraft performance data effortlessly. It uses Dash, a Python framework, to present insights from a  dataset that contains detailed metrics across various parameters. Features: * Tabular Insights: Easily navigate through multiple Excel sheets using interactive tabs. Tables are formatted with three significant figures, and NaN values are handled for clarity. * Visual Insights: Complementing the numerical data, there's a gallery of images. Each image card is clickable and opens in a separate window for easy viewing. * User-Friendly Interface: The dashboard has a modern Bootstrap theme, making it easy to use. The sleek design enhances readability and overall usability.
 
 Main.py code
-This Python script utilizes Dash to create a web application for analyzing aircraft performance based on user-inputted parameters, displaying rate of climb and climb angle plots for various altitudes.
-
+Explore aircraft performance with Syed's Aircraft Performance Project, a dynamic web tool that lets you analyze key factors influencing aircraft performance. Customize the analysis by inputting aircraft parameters like drag coefficient, wing shape, weight, and engine specifications. The project offers in-depth altitude-specific evaluations, calculating and visualizing how aircraft climb performance varies at different altitudes, adjusting for factors like air density. Engage with interactive graphs that illustrate the effects of parameter changes on aircraft performance, empowering you to understand and optimize aircraft design and operation.
